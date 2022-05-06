@@ -1,2 +1,2 @@
 Programme d'un Jeu d'échecs réalisés par Clément Berdin.
-J'ai fait toutes les parties demandées. De plus, il y a un vérification d'echec et mat de base (seulement si le roi est attaqué et n'a plus de case où aller) et il y a aussi la promotion automatique en Dame.
+Il utilise la bibliothèque MG2D. La promotion du pion se fait automatiquement en Dame. Le jeu détecte l'echec du roi de plus il y a une détection de l'echec et mat lorsque le roi n'a plus d'endroit ou aller.
