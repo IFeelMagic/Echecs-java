@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\cleme\\OneDrive\\Bureau\\COURS\\Java\\tp4\\MG2D_2.9\\MG2D.jar"
+    ]
+}
